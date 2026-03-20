@@ -70,12 +70,3 @@
   <a href="https://www.linkedin.com/in/lincon-valentim-b76b01139" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
- <img 
-        align="left" 
-        alt="gitHub Stats" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLincon&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-
-</p>
