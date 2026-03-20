@@ -1,6 +1,6 @@
 ## 🎮🎹💻 Lincon Valentim
 
-💻 Desenvolvedor Java
+💻 Desenvolvedor Java/Python Jr 
 🚀 Focado em backend com Java  
 📚 Atualmente estudando e evoluindo constantemente  
 
